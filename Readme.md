@@ -33,22 +33,25 @@
 ---
 
 ## 📦 Traditional machine learning based methods
-
+V: Video; T: Text; A: Audio; F: Facial AU; P: Physiology; H: Heat; M: Micro-expressions; B: Body; G: Gaze; Hd: hand; Af: Affect; B: behavioral; E: EEG
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2025 | Eception Detection based on Micro-Expression and Feature Selection Method | EURASIP Journal on Image and Video Processing| [pdf](https://link.springer.com/article/10.1186/s13640-025-00674-3)| - | - |
-| 2025 | A Multimodal Framework for Lie Detection Using Statistical Validation and Feature Fusion | Research Square| [pdf](https://www.researchsquare.com/article/rs-6573656/v1)| - | - |
-| 2024 | Video-Based Deception Detection Using Wrapper-Based Feature Selection | CIVEMSA'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586610)| - | - |
-| 2024 | FTM: The Face Truth Machine—Hand-Crafted Features from Micro-Expressions to Support Lie Detection | Computer Vision and Image Understanding | [pdf](https://www.sciencedirect.com/science/article/pii/S1077314224002698)| - | - |
-| 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
-| 2022 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | - |
-| 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI'22 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
-| 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP'21 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
-| 2021 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf](https://ieeexplore.ieee.org/abstract/document/7782429)| - | - |
-| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI'20 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
-| 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | - |
-| 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
-| 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf](https://ieeexplore.ieee.org/abstract/document/7836768)| - | - |
+| 2025 | Eception Detection based on Micro-Expression and Feature Selection Method | EURASIP Journal on Image and Video Processing| [pdf](https://link.springer.com/article/10.1186/s13640-025-00674-3)| - | VGM |
+| 2025 | A Multimodal Framework for Lie Detection Using Statistical Validation and Feature Fusion | Research Square| [pdf](https://www.researchsquare.com/article/rs-6573656/v1)| - | VABM |
+| 2024 | Video-Based Deception Detection Using Wrapper-Based Feature Selection | CIVEMSA'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586610)| - | VAAf |
+| 2024 | FTM: The Face Truth Machine—Hand-Crafted Features from Micro-Expressions to Support Lie Detection | Computer Vision and Image Understanding | [pdf](https://www.sciencedirect.com/science/article/pii/S1077314224002698)| - | VHdM |
+| 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | VM|
+| 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI'22 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | VAT |
+| 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP'21 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | VAGP |
+| 2020 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | VAT |
+| 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI'20 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | VAT |
+| 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | VAB |
+| 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | VAEG |
+| 2016 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf](https://ieeexplore.ieee.org/abstract/document/7782429)| - | TPH |
+| 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf](https://ieeexplore.ieee.org/abstract/document/7836768)| - | VTAF|
+
+
+
 
 ---
 
