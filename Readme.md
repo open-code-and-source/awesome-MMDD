@@ -53,6 +53,11 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf]()| - | - |
+| 2021 | Deception Detection in Group Video Conversations Using Dynamic Interaction Networks |  The International AAAI Conference on Web and Social Media 2021 | [pdf]()| - | - |
+| 2018 | Microexpressions Differentiate Truths from Lies about Future Malicious Intent |  Frontiers in psychology | [pdf]()| - | - |
+| 2018 | Toward End-to-End Deception Detection in Videos |  Big Data'18 | [pdf]()| - | - |
+| 2018 | A Multi-view Learning Approach to Deception Detection |  FG'18 | [pdf]()| - | - |
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
 
