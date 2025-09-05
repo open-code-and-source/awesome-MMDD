@@ -31,7 +31,7 @@
 | 2015 | Deception Detection Using Real-Life Trial Data |  ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | public |
 ---
 
-## 📦 Papers
+## 📦 Traditional machine learning based methods
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
@@ -49,6 +49,18 @@
 | 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
 ---
+
+## 📦 Deep learning based detection methods
+
+| Year | Title | Source | PDF | Code | Notes |
+|:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2017 |  Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence| [pdf]()| - | - |
+---
+
+ Bag-of-lies: A multimodal dataset for deception detection. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops
+
+
+
 
 ## 🧪 Benchmarks & Protocols (brief)
 - Common metrics: To Do.
