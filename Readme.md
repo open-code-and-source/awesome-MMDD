@@ -33,31 +33,17 @@
 ---
 
 ## 📦 Traditional machine learning based methods
-Modalities abbreviation legend
 
-V: Video
+| Abbr.  | Meaning           | Abbr.  | Meaning    |
+| ------ | ----------------- | ------ | ---------- |
+| **V**  | Video             | **T**  | Text       |
+| **A**  | Audio             | **F**  | Facial AU  |
+| **P**  | Physiology        | **H**  | Heat       |
+| **M**  | Micro-expressions | **B**  | Body       |
+| **G**  | Gaze              | **Hd** | Hand       |
+| **Af** | Affect            | **Be** | Behavioral |
+| **E**  | EEG               |        |            |
 
-T: Text
-
-A: Audio
-
-F: Facial AU
-
-P: Physiology
-
-H: Heat
-
-M: Micro-expressions
-
-B: Body
-
-G: Gaze
-
-Hd: Hand
-
-Af: Affect
-
-Be: Behavioral
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | Eception Detection based on Micro-Expression and Feature Selection Method | EURASIP Journal on Image and Video Processing| [pdf](https://link.springer.com/article/10.1186/s13640-025-00674-3)| - | VGM |
