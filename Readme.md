@@ -34,15 +34,13 @@
 
 ## 📦 Traditional machine learning based methods
 
-| Abbr.  | Meaning           | Abbr.  | Meaning    |
-| ------ | ----------------- | ------ | ---------- |
-| **V**  | Video             | **T**  | Text       |
-| **A**  | Audio             | **F**  | Facial AU  |
-| **P**  | Physiology        | **H**  | Heat       |
-| **M**  | Micro-expressions | **B**  | Body       |
-| **G**  | Gaze              | **Hd** | Hand       |
-| **Af** | Affect            | **Be** | Behavioral |
-| **E**  | EEG               |        |            |
+| Abbr. | Meaning    | Abbr.  | Meaning | Abbr.  | Meaning    | Abbr.  | Meaning    |
+| ----- | ---------- | ------ | ------- | ------ | ---------- | ------ | ---------- |
+| **V** | Video      | **T**  | Text    | **A**  | Audio      | **F**  | Facial AU  |
+| **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **B**  | Body       |
+| **G** | Gaze       | **Hd** | Hand    | **Af** | Affect     | **Be** | Behavioral |
+| **E** | EEG        |        |         |        |            |        |            |
+
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
