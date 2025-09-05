@@ -74,6 +74,7 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2025 | AFFAKT: A Hierarchical Optimal Transport based Method for Affective Facial Knowledge Transfer in Video Deception Detection |  AAAI'25 | [pdf](https://arxiv.org/pdf/2412.08965)| - | VA |
 | 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | VA |
 | 2024 | Flexible-Modal Deception Detection with Audio Visual Adapter |  IJCB'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10744442)| - | VAT |
 | 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10651008)| - | VA |
