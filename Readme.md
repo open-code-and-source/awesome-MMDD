@@ -20,6 +20,7 @@
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: A Comparison between Human Judges and Machine Learning Models |   Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - |
 | 2021 | Identity Unbiased Deception Detection by 2d-to-3d Face Reconstruction |   WCACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - |
 | 2021 | Was It You Who Stole 500 Rubles?”-The Multimodal Deception Detection |   ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - |
+| 2021 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf]()| - | - |
 | 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - |
 | 2019 | High-Level Features for Multimodal Deception Detection in Videos | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - |
 | 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - |
@@ -28,6 +29,7 @@
 | 2018 | Miami University Deception Detection Database | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  |
 | 2018 | Automated Dyadic Data Recorder (ADDR) Framework and Analysis of Facial Cues in Deceptive Communication | 2018 the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies | [pdf](https://arxiv.org/abs/1709.02414)| - | - |
 | 2016 | A Multimodal Dataset for Deception Detection | CVPR worskshop'16 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)| - | public |
+| 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf]()| - | public |
 | 2015 | Deception Detection Using Real-Life Trial Data |  ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | public |
 ---
 
