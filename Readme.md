@@ -59,7 +59,7 @@
 | 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | - |
 | 2024 | Flexible-Modal Deception Detection with Audio Visual Adapter |  IJCB'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10744442)| - | - |
 | 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10651008)| - | - |
-| 2024 | Benchmarking Cross-Domain AudioVisual Deception Detection |  arXiv | [pdf](https://arxiv.org/pdf/2405.06995)| [code](https://github.com/Redaimao/cross_domain_DD) | - |
+| 2024 | Benchmarking Cross-Domain Audio Visual Deception Detection |  arXiv | [pdf](https://arxiv.org/pdf/2405.06995)| [code](https://github.com/Redaimao/cross_domain_DD) | - |
 | 2024 | Deception Detection Algorithm Based on Global and Local Feature Fusion with Multi-head Attention |  ICIPMC'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586666)| - | - |
 | 2023 | The Influence of Micro-Expressions on Deception Detection |  Multimedia Tools and Applications | [pdf](https://link.springer.com/article/10.1007/s11042-023-14551-6)| - | - |
 | 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/9988708)| - | - |
