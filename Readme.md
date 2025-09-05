@@ -65,23 +65,30 @@
 
 ## 🧪 Deep learning based methods
 
+| Abbr. | Meaning    | Abbr.  | Meaning | Abbr.  | Meaning    | Abbr.  | Meaning    |
+| ----- | ---------- | ------ | ------- | ------ | ---------- | ------ | ---------- |
+| **V** | Video      | **T**  | Text    | **A**  | Audio      | **F**  | Facial AU  |
+| **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **B**  | Body       |
+| **G** | Gaze       | **P**  |Pupil Dilation    | **E**      |   Eye Blinking      |
+| **Be** | Behavioral|
+
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | - |
-| 2024 | Flexible-Modal Deception Detection with Audio Visual Adapter |  IJCB'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10744442)| - | - |
-| 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10651008)| - | - |
-| 2024 | Benchmarking Cross-Domain Audio Visual Deception Detection |  arXiv | [pdf](https://arxiv.org/pdf/2405.06995)| [code](https://github.com/Redaimao/cross_domain_DD) | - |
-| 2024 | Deception Detection Algorithm Based on Global and Local Feature Fusion with Multi-head Attention |  ICIPMC'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586666)| - | - |
-| 2023 | The Influence of Micro-Expressions on Deception Detection |  Multimedia Tools and Applications | [pdf](https://link.springer.com/article/10.1007/s11042-023-14551-6)| - | - |
-| 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/9988708)| - | - |
-| 2022 | Attention-Aware Multi-Modal Rnn for Deception Detection | Big Data'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/10020331)| - | - |
-| 2021 | Deception Detection in Videos Using the Facial Action Coding System | arXiv | [pdf](https://arxiv.org/pdf/2105.13659)| - | - |
+| 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | VA |
+| 2024 | Flexible-Modal Deception Detection with Audio Visual Adapter |  IJCB'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10744442)| - | VAT |
+| 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10651008)| - | VA |
+| 2024 | Benchmarking Cross-Domain Audio Visual Deception Detection |  arXiv | [pdf](https://arxiv.org/pdf/2405.06995)| [code](https://github.com/Redaimao/cross_domain_DD) | VABe |
+| 2024 | Deception Detection Algorithm Based on Global and Local Feature Fusion with Multi-head Attention |  ICIPMC'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586666)| - | VGF |
+| 2023 | The Influence of Micro-Expressions on Deception Detection |  Multimedia Tools and Applications | [pdf](https://link.springer.com/article/10.1007/s11042-023-14551-6)| - | VM |
+| 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/9988708)| - | VA |
+| 2022 | Attention-Aware Multi-Modal Rnn for Deception Detection | Big Data'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/10020331)| - | VAT |
+| 2021 | Deception Detection in Videos Using the Facial Action Coding System | arXiv | [pdf](https://arxiv.org/pdf/2105.13659)| - | VF |
 | 2021 | Deception Detection in Group Video Conversations Using Dynamic Interaction Networks |  The International AAAI Conference on Web and Social Media 2021 | [pdf](https://arxiv.org/pdf/2106.06163)| - | - |
-| 2018 | Microexpressions Differentiate Truths from Lies about Future Malicious Intent |  Frontiers in psychology | [pdf](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02545/full)| - | - |
-| 2018 | Toward End-to-End Deception Detection in Videos |  Big Data'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8621909)| - | - |
-| 2018 | A Multi-view Learning Approach to Deception Detection |  FG'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8373888)| - | - |
-| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
-| 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
+| 2018 | Microexpressions Differentiate Truths from Lies about Future Malicious Intent |  Frontiers in psychology | [pdf](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02545/full)| - | VM |
+| 2018 | Toward End-to-End Deception Detection in Videos |  Big Data'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8621909)| - | VA |
+| 2018 | A Multi-view Learning Approach to Deception Detection |  FG'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8373888)| - | VATF |
+| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | VAT |
+| 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | VEP |
 
 ---
 
