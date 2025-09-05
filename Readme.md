@@ -1,6 +1,6 @@
 # Multimodal Deception Detection
 
-**Scope:** Methods, datasets, and protocols related to multimodal deception detection.
+**Scope:** Methods, datasets, and metrics related to multimodal deception detection.
 
 
 
