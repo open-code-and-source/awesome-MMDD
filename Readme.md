@@ -23,7 +23,7 @@
 | 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - |
 | 2019 | High-Level Features for Multimodal Deception Detection in Videos | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - |
 | 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - |
-| 2019 | Box of Lies: Multimodal Deception Detection in Dialogues | 2019 Conference of the North American Chapter of the Association for Computational Linguistics | [pdf](https://aclanthology.org/N19-1175/)| - | public  |
+| 2019 | Box of Lies: Multimodal Deception Detection in Dialogues | 2019 Conference of the North American Chapter of the Association for Computational Linguistics | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  |
 | 2018 | Gender Differences in Multimodal Contact-Free Deception Detection | IEEE MultiMedia | [pdf](http://ieeexplore.ieee.org/document/8543625)| - | - |
 | 2018 | Miami University Deception Detection Database | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  |
 | 2018 | Automated Dyadic Data Recorder (ADDR) Framework and Analysis of Facial Cues in Deceptive Communication | 2018 the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies | [pdf](https://arxiv.org/abs/1709.02414)| - | - |
