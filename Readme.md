@@ -53,10 +53,15 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf]()| - | - |
+| 2024 | Flexible-Modal Deception Detection with AudioVisual Adapter |  IJCB'24 | [pdf]()| - | - |
+| 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf]()| - | - |
 | 2024 | Benchmarking Cross-Domain AudioVisual Deception Detection |  arXiv | [pdf]()| - | - |
 | 2024 | Deception Detection Algorithm Based on Global and Local Feature Fusion with Multi-head Attention |  ICIPMC'24 | [pdf]()| - | - |
 | 2023 | The Influence of Micro-Expressions on Deception Detection |  Multimedia Tools and Applications | [pdf]()| - | - |
 | 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf]()| - | - |
+| 2022 | Attention-Aware Multi-Modal Rnn for Deception Detection | Big Data'22 | [pdf]()| - | - |
+| 2021 | Deception Detection in Videos Using the Facial Action Coding System | arXiv | [pdf]()| - | - |
 | 2021 | Deception Detection in Group Video Conversations Using Dynamic Interaction Networks |  The International AAAI Conference on Web and Social Media 2021 | [pdf]()| - | - |
 | 2018 | Microexpressions Differentiate Truths from Lies about Future Malicious Intent |  Frontiers in psychology | [pdf]()| - | - |
 | 2018 | Toward End-to-End Deception Detection in Videos |  Big Data'18 | [pdf]()| - | - |
