@@ -46,18 +46,21 @@
 | 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI'20 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
 | 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | - |
 | 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
-| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
-| 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
+
 ---
 
 ## 📦 Deep learning based detection methods
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
-| 2017 |  Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence| [pdf]()| - | - |
----
+| 2017 | Deep Learning Driven Multimodal Fusion for Automated Deception Detection |  IEEE Symposium Series on Computational Intelligence | [pdf](https://ieeexplore.ieee.org/document/8285382)| - | - |
+| 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | - |
 
- Bag-of-lies: A multimodal dataset for deception detection. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition workshops
+
+
+
+
+---
 
 
 
