@@ -78,7 +78,7 @@
 
 
 ## 🧪 Benchmarks & Protocols (brief)
-- Common metrics: To Do.
+- Common metrics: ACC, F1, AUC.
 - Cross-domain setups: To Do.
 
 ---
