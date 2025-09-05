@@ -52,7 +52,7 @@
 
 ---
 
-## 🧪 Deep learning based detection methods
+## 🧪 Deep learning based methods
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
