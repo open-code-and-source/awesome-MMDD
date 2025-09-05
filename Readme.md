@@ -1,6 +1,6 @@
 # Multimodal Deception Detection
 
-**Scope:** Methods, datasets, and metrics related to multimodal deception detection.
+**Scope:** Datasets and methods related to multimodal deception detection.
 
 
 
@@ -52,7 +52,7 @@
 
 ---
 
-## 📦 Deep learning based detection methods
+## 🧪 Deep learning based detection methods
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
@@ -74,14 +74,6 @@
 
 ---
 
-
-
-
-## 🧪 Benchmarks & Protocols (brief)
-- Common metrics: ACC, F1, AUC.
-- Cross-domain setups: To Do.
-
----
 
 ## 📜 License
 - Code in this repo: MIT  
