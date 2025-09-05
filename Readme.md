@@ -83,7 +83,7 @@
 | 2022 | Deceptive Detection based on Audio Spectrum Analysis using Deep Learning |  ICECCME'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/9988708)| - | VA |
 | 2022 | Attention-Aware Multi-Modal Rnn for Deception Detection | Big Data'22 | [pdf](https://ieeexplore.ieee.org/abstract/document/10020331)| - | VAT |
 | 2021 | Deception Detection in Videos Using the Facial Action Coding System | arXiv | [pdf](https://arxiv.org/pdf/2105.13659)| - | VF |
-| 2021 | Deception Detection in Group Video Conversations Using Dynamic Interaction Networks |  The International AAAI Conference on Web and Social Media 2021 | [pdf](https://arxiv.org/pdf/2106.06163)| - | - |
+| 2021 | Deception Detection in Group Video Conversations Using Dynamic Interaction Networks |  The International AAAI Conference on Web and Social Media 2021 | [pdf](https://arxiv.org/pdf/2106.06163)| - | VAT |
 | 2018 | Microexpressions Differentiate Truths from Lies about Future Malicious Intent |  Frontiers in psychology | [pdf](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02545/full)| - | VM |
 | 2018 | Toward End-to-End Deception Detection in Videos |  Big Data'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8621909)| - | VA |
 | 2018 | A Multi-view Learning Approach to Deception Detection |  FG'18 | [pdf](https://ieeexplore.ieee.org/abstract/document/8373888)| - | VATF |
