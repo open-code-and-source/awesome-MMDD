@@ -44,11 +44,11 @@
 | 2022 | Multimodal Political Deception Detection |  IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/abstract/document/9310253)| - | - |
 | 2022 | POLLY: a Multimodal Cross-Cultural Context-Sensitive Framework to Predict Political Lying from Videos |  ICMI'22 | [pdf](https://dl.acm.org/doi/10.1145/3536221.3556617)| - | - |
 | 2021 | Unsupervised Audio-Visual Subspace Alignment for High-Stakes Deception Detection | ICASSP'21 | [pdf](https://ieeexplore.ieee.org/abstract/document/9413550)| - | - |
-| 2021 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf]()| - | - |
+| 2021 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf](https://ieeexplore.ieee.org/abstract/document/7782429)| - | - |
 | 2020 | Introducing Representations of Facial Affect in Automated Multimodal Deception Detection | ICMI'20 | [pdf](https://dl.acm.org/doi/abs/10.1145/3382507.3418864)| - | - |
 | 2019 | Automatic Long-Term Deception Detection in Group Interaction Videos | ICME'19 | [pdf](https://ieeexplore.ieee.org/abstract/document/8784892)| - | - |
 | 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | - |
-| 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf]()| - | public |
+| 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf](https://ieeexplore.ieee.org/abstract/document/7836768)| - | public |
 
 ---
 
