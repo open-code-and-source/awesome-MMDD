@@ -69,8 +69,8 @@
 | ----- | ---------- | ------ | ------- | ------ | ---------- | ------ | ---------- |
 | **V** | Video      | **T**  | Text    | **A**  | Audio      | **F**  | Facial AU  |
 | **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **B**  | Body       |
-| **G** | Gaze       | **P**  |Pupil Dilation    | **E**      |   Eye Blinking      |
-| **Be** | Behavioral|
+| **G** | Gaze       | **P**  |Pupil Dilation    | **E**      |   Eye Blinking      | **Be** | Behavioral|
+
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
