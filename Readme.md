@@ -27,8 +27,8 @@
 | 2018 | Gender Differences in Multimodal Contact-Free Deception Detection | IEEE MultiMedia | [pdf](http://ieeexplore.ieee.org/document/8543625)| - | - |
 | 2018 | Miami University Deception Detection Database | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  |
 | 2018 | Automated Dyadic Data Recorder (ADDR) Framework and Analysis of Facial Cues in Deceptive Communication | 2018 the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies | [pdf](https://arxiv.org/abs/1709.02414)| - | - |
-| 2016 | A Multimodal Dataset for Deception Detection | CVPR worskshop'16 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)| - | public |
-| 2015 | Deception Detection Using Real-Life Trial Data |  ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | public |
+| 2016 | A Multimodal Dataset for Deception Detection | CVPR worskshop'16 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)| - | - |
+| 2015 | Deception Detection Using Real-Life Trial Data |  ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - |
 
 ---
 
