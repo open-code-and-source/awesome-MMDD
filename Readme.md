@@ -92,8 +92,3 @@
 | 2017 | Lie Detector with Pupil Dilation and Eye Blinks Using Hough Transform and Frame Difference Method with Fuzzy Logic | ICCREC'17 | [pdf](https://ieeexplore.ieee.org/document/8226697) | - | VEP |
 
 ---
-
-
-## 📜 License
-- Code in this repo: MIT  
-- List content (tables & README text): CC-BY-4.0
