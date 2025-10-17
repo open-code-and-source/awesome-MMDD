@@ -46,7 +46,6 @@
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | Eception Detection based on Micro-Expression and Feature Selection Method | EURASIP Journal on Image and Video Processing| [pdf](https://link.springer.com/article/10.1186/s13640-025-00674-3)| - | VGM |
 | 2025 | A Multimodal Framework for Lie Detection Using Statistical Validation and Feature Fusion | Research Square| [pdf](https://www.researchsquare.com/article/rs-6573656/v1)| - | VABM |
-| 2025 | Video-Based Deception Detection via Capsule Network With Channel-Wise Attention and Supervised Contrastive Learning | IEEE OPEN JOURNAL of the COMPUTER SOCIETY | - | [pdf]()| -| -|
 | 2024 | Video-Based Deception Detection Using Wrapper-Based Feature Selection | CIVEMSA'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10586610)| - | VAAf |
 | 2024 | FTM: The Face Truth Machine—Hand-Crafted Features from Micro-Expressions to Support Lie Detection | Computer Vision and Image Understanding | [pdf](https://www.sciencedirect.com/science/article/pii/S1077314224002698)| - | VHdM |
 | 2022 | Detecting Deception through Facial Expressions in a Dataset of Videotaped Interviews: a Comparison between Human Judges and Machine Learning Models | Computers in Human Behavior| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | VM|
@@ -71,12 +70,15 @@
 | **V** | Video      | **T**  | Text    | **A**  | Audio      | **F**  | Facial AU  |
 | **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **B**  | Body       |
 | **G** | Gaze       | **P**  |Pupil Dilation    | **E**      |   Eye Blinking      | **Be** | Behavioral|
+| **hD** | Head Pose |
+
 
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
 | 2025 | AFFAKT: A Hierarchical Optimal Transport based Method for Affective Facial Knowledge Transfer in Video Deception Detection |  AAAI'25 | [pdf](https://arxiv.org/pdf/2412.08965)| - | VA |
 | 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | VA |
+| 2024 | Video-Based Deception Detection via Capsule Network With Channel-Wise Attention and Supervised Contrastive Learning | IEEE Open Journal of the Computer Society | - | [pdf](https://ieeexplore.ieee.org/document/10734158)| - | GHF |
 | 2024 | Flexible-Modal Deception Detection with Audio Visual Adapter |  IJCB'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10744442)| - | VAT |
 | 2024 | Video Deception Detection through the Fusion of Multimodal Feature Extraction and Neural Networks |  IJCNN'24 | [pdf](https://ieeexplore.ieee.org/abstract/document/10651008)| - | VA |
 | 2024 | Benchmarking Cross-Domain Audio Visual Deception Detection |  arXiv | [pdf](https://arxiv.org/pdf/2405.06995)| [code](https://github.com/Redaimao/cross_domain_DD) | VABe |
