@@ -10,6 +10,7 @@
 
 | Year | Title | Source | PDF | Link | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2025 | DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning | arXiv | [pdf](https://arxiv.org/abs/2603.23916)| [link]() | will be public |
 | 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| [link](https://aip.seu.edu.cn/2024/1219/c54084a515309/page.htm) | public |
 | 2024 | MDPE: A Multimodal Deception Dataset with Personality and Emotional Characteristic | MM'24 | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | public |
 | 2024 | Exploring Facial Cues: Automated Deception Detection Using Artificial Intelligence | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | - |
