@@ -67,7 +67,7 @@
 | Abbr. | Meaning    | Abbr.  | Meaning | Abbr.  | Meaning    | Abbr.  | Meaning    |
 | ----- | ---------- | ------ | ------- | ------ | ---------- | ------ | ---------- |
 | **V** | Video      | **T**  | Text    | **A**  | Audio      | **F**  | Facial AU  |
-| **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **B**  | Body       |
+| **P** | Physiology | **H**  | Heat    | **M**  | Micro-exp. | **Bp**  |Body posture|
 | **G** | Gaze       | **P**  |Pupil Dilation    | **E**      |   Eye Blinking      | **Be** | Behavioral|
 | **X** | Head Pose |
 
@@ -75,6 +75,7 @@
 
 | Year | Title | Source | PDF | Code | Notes |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|
+| 2025 | Detecting Deceptive Behavior via Learning Relation-Aware Visual Representations |  TIFS'25 | [pdf](https://ieeexplore.ieee.org/abstract/document/11072177/)| - | VBp |
 | 2025 | AFFAKT: A Hierarchical Optimal Transport based Method for Affective Facial Knowledge Transfer in Video Deception Detection |  AAAI'25 | [pdf](https://arxiv.org/pdf/2412.08965)| - | VA |
 | 2025 | LM DeceptionNet: A Multimodal Approach for Efficient Transfer Learning-Based Deception Detection |  Knowledge-Based Systems | [pdf](https://www.sciencedirect.com/science/article/pii/S0950705125005453)| - | VA |
 | 2024 | Video-Based Deception Detection via Capsule Network With Channel-Wise Attention and Supervised Contrastive Learning | IEEE Open Journal of the Computer Society | [pdf](https://ieeexplore.ieee.org/document/10734158)| - | GHFX |
