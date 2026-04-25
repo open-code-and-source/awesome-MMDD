@@ -31,12 +31,6 @@
 | 2015 | Real-Life Trial Data | ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - | — 
 
 
-
-
-
-
-
-
 ---
 
 ## 🧪 Deep learning based methods
@@ -96,9 +90,6 @@
 | 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | VAEG |
 | 2016 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf](https://ieeexplore.ieee.org/abstract/document/7782429)| - | TPH |
 | 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf](https://ieeexplore.ieee.org/abstract/document/7836768)| - | VTAF|
-
-
-
 
 ---
 
