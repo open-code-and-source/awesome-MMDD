@@ -8,8 +8,7 @@
 
 | Year | Title | Source | PDF | Link | Notes | Annotations |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|:------------|
-
-| 2019 | The Liar's Walk: Detecting Deception with Gait and Gesture | arXiv | [pdf](https://arxiv.org/abs/1912.06874)| [link]() | public | gesture/pose/gait |
+| 2019 | The Liar's Walk: Detecting Deception with Gait and Gesture  | arXiv | [pdf](https://arxiv.org/abs/1912.06874)| [link]() | public | gestures/posture/gait |
 | 2025 | DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning | arXiv | [pdf](https://arxiv.org/abs/2603.23916)| [link]() | will be public | facial expressions / hand gestures / posture / emotion / reasoning** |
 | 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| [link](https://aip.seu.edu.cn/2024/1219/c54084a515309/page.htm) | public | facial expressions |
 | 2024 | MDPE | MM'24 | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | public | emotion / personality |
