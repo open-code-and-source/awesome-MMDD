@@ -28,7 +28,9 @@
 | 2018 | Miami Dataset | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  | physiological / facial |
 | 2018 | ADDR Framework | IMWUT'18 | [pdf](https://arxiv.org/abs/1709.02414)| - | - | gaze / facial |
 | 2016 | Bag-of-Lies Dataset | CVPR workshop'16 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)| - | - | - |
-| 2015 | Real-Life Trial Data | ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - | — 
+| 2015 | Real-Life Trial Data | ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - | — |
+
+
 
 
 ---
@@ -90,6 +92,7 @@
 | 2019 | Bag-of-Lies: A Multimodal Dataset for Deception Detection | CVPR workshop'19 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/html/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.html)| - | VAEG |
 | 2016 | Detecting Deceptive Behavior via Integration of Discriminative Features from Multiple Modalities | IEEE Transactions on Information Forensics and Security | [pdf](https://ieeexplore.ieee.org/abstract/document/7782429)| - | TPH |
 | 2016 | The Truth and Nothing but the Truth: Multimodal Analysis for Deception Detection | ICDMW'16 | [pdf](https://ieeexplore.ieee.org/abstract/document/7836768)| - | VTAF|
+| 2010 | Motion profiles for deception detection using visual cues | ECCV'10 | [pdf](https://link.springer.com/chapter/10.1007/978-3-642-15567-3_34)| - | - | — |
 
 ---
 
