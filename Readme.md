@@ -6,7 +6,7 @@
 
 ## 📄 Datasets
 
-| Year | Title | Source | PDF | Link | Notes | Annotations |
+| Year | Title | Source | PDF | Link | Notes | Annotations | Country/Language |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|:------------|
 | 2025 |  DDG: Detecting Deceptive Gait Walk Based on Videos | Proceedings of the Future Technologies Conference | [pdf](https://link.springer.com/chapter/10.1007/978-3-032-07995-4_5)| [link]() | public | gestures/posture/gait |
 | 2024 |  The Walk of Guilt: Multimodal Deception Detection from Nonverbal Motion Behaviour | INFORMATION (SWITZERLAND)  | [pdf](https://www.mdpi.com/2078-2489/16/1/6)| [link]() | public | posture |
@@ -21,7 +21,7 @@
 | 2022 | Detecting Deception through Facial Expressions | Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - | facial expressions |
 | 2021 | Identity Unbiased Deception Detection | WACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - | facial geometry |
 | 2021 | Multimodal Deception Detection | ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - | — |
-| 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |
+| 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |US./ English|
 | 2019 | High-Level Features for Multimodal Deception Detection | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - | high-level features |
 | 2019 | Group Interaction Deception Detection | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - | group behavior |
 | 2019 | Box of Lies | NAACL'19 | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  | — |
