@@ -24,7 +24,7 @@
 | 2020 | Multimodal Political Deception Detection | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |USA/ English|
 | 2019 | High-Level Features for Multimodal Deception Detection | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - | high-level features |
 | 2019 | Group Interaction Deception Detection | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - | group behavior |
-| 2019 | Box of Lies | NAACL'19 | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  | — |US./English|
+| 2019 | Box of Lies | NAACL'19 | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  | — |USA/English|
 | 2018 | Gender Differences in Deception Detection | IEEE MultiMedia | [pdf](http://ieeexplore.ieee.org/document/8543625)| - | - | — |
 | 2018 | Miami Dataset | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  | physiological / facial |
 | 2018 | ADDR Framework | IMWUT'18 | [pdf](https://arxiv.org/abs/1709.02414)| - | - | gaze / facial |
