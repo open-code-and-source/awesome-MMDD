@@ -11,7 +11,7 @@
 | 2025 |  DDG: Detecting Deceptive Gait Walk Based on Videos | Proceedings of the Future Technologies Conference | [pdf](https://link.springer.com/chapter/10.1007/978-3-032-07995-4_5)| [link]() | public | gestures/posture/gait |
 | 2024 |  The Walk of Guilt: Multimodal Deception Detection from Nonverbal Motion Behaviour | INFORMATION (SWITZERLAND)  | [pdf](https://www.mdpi.com/2078-2489/16/1/6)| [link]() | public | posture |
 | 2019 | The Liar's Walk: Detecting Deception with Gait and Gesture  | arXiv | [pdf](https://arxiv.org/abs/1912.06874)| [link]() | public | gestures/posture/gait |
-| 2025 | DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning | arXiv | [pdf](https://arxiv.org/abs/2603.23916)| [link]() | will be public | facial expressions / hand gestures / posture / emotion / Acoustic Characteristics/reasoning||1695|
+| 2025 | DecepGPT: Schema-Driven Deception Detection with Multicultural Datasets and Robust Multimodal Learning | arXiv | [pdf](https://arxiv.org/abs/2603.23916)| [link]() | will be public | facial expressions / hand gestures / posture / emotion / Acoustic Characteristics/reasoning|USA, Germany, Bulgaria, Vietnam|1695|
 | 2025 | Multimodal Lie Detection Dataset Based on Chinese Dialogue | Journal of Image and Graphics | [pdf](https://arxiv.org/abs/2407.12274)| [link](https://aip.seu.edu.cn/2024/1219/c54084a515309/page.htm) | public | facial expressions |
 | 2024 | MDPE | MM'24 | [pdf](https://arxiv.org/abs/2407.12274) | [link](https://github.com/cai-cong/MDPE) | public | emotion / personality |
 | 2024 | Exploring Facial Cues | Neural Computing and Applications | [pdf](https://link.springer.com/article/10.1007/s00521-024-09811-x) | - | — | facial expressions |
