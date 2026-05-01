@@ -21,6 +21,7 @@
 | 2022 | Detecting Deception through Facial Expressions | Computers in Human Behavior | [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0747563221003861)| - | - | facial expressions |
 | 2021 | Identity Unbiased Deception Detection | WACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - | facial geometry |
 | 2021 | Multimodal Deception Detection | ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - | — |
+| 2021 | LSD | WACV'21 | [pdf]()| - | - | the Netherlands |
 | 2020 | Multimodal Political Deception Detection (Political) | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |USA/ English|
 | 2019 | High-Level Features for Multimodal Deception Detection | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - | high-level features |
 | 2019 | Group Interaction Deception Detection | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - | group behavior |
