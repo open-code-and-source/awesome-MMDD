@@ -6,7 +6,7 @@
 
 ## 📄 Datasets
 
-| Year | Title | Source | PDF | Link | Notes | Annotations | Country/Language |
+| Year | Title | Source | PDF | Link | Notes | Annotations | Country |
 |:---:|:------|:-----:|:---------:|:----:|:-----:|:------------|:------------|
 | 2025 |  DDG: Detecting Deceptive Gait Walk Based on Videos | Proceedings of the Future Technologies Conference | [pdf](https://link.springer.com/chapter/10.1007/978-3-032-07995-4_5)| [link]() | public | gestures/posture/gait |
 | 2024 |  The Walk of Guilt: Multimodal Deception Detection from Nonverbal Motion Behaviour | INFORMATION (SWITZERLAND)  | [pdf](https://www.mdpi.com/2078-2489/16/1/6)| [link]() | public | posture |
@@ -22,15 +22,15 @@
 | 2021 | Identity Unbiased Deception Detection | WACV'21 | [pdf](https://openaccess.thecvf.com/content/WACV2021/papers/Ngo_Identity_Unbiased_Deception_Detection_by_2D-to-3D_Face_Reconstruction_WACV_2021_paper.pdf)| - | - | facial geometry |
 | 2021 | Multimodal Deception Detection | ICMI'21 | [pdf](https://dl.acm.org/doi/10.1145/3395035.3425638)| - | - | — |
 | 2021 | LSD | WACV'21 | [pdf]()| - | - | - | the Netherlands |
-| 2020 | Multimodal Political Deception Detection (Political) | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |USA/ English|
+| 2020 | Multimodal Political Deception Detection (Political) | IEEE MultiMedia | [pdf](https://ieeexplore.ieee.org/document/9310253)| - | - | — |USA|
 | 2019 | High-Level Features for Multimodal Deception Detection | CVPR workshop'19 | [pdf](https://ieeexplore.ieee.org/document/9025622)| - | - | high-level features |
 | 2019 | Group Interaction Deception Detection | ICME'19 | [pdf](https://ieeexplore.ieee.org/document/8784892)| - | - | group behavior |
-| 2019 | Box of Lies | NAACL'19 | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  | — |USA/English|
+| 2019 | Box of Lies | NAACL'19 | [pdf](https://aclanthology.org/N19-1175/)| [link](https://web.eecs.umich.edu/~mihalcea/downloads.html)| public  | — |USA|
 | 2018 | Gender Differences in Deception Detection | IEEE MultiMedia | [pdf](http://ieeexplore.ieee.org/document/8543625)| - | - | — |
 | 2018 | Miami Dataset | Behavior Research Methods | [pdf](https://link.springer.com/article/10.3758/s13428-018-1061-4)| [link](https://sc.lib.miamioh.edu/handle/2374.MIA/6067) | public  | physiological / facial |
 | 2018 | ADDR Framework | IMWUT'18 | [pdf](https://arxiv.org/abs/1709.02414)| - | - | gaze / facial |
 | 2016 | Bag-of-Lies Dataset | CVPR workshop'16 | [pdf](https://openaccess.thecvf.com/content_CVPRW_2019/papers/CV-COPS/Gupta_Bag-Of-Lies_A_Multimodal_Dataset_for_Deception_Detection_CVPRW_2019_paper.pdf)| - | - | - |
-| 2015 | Real-Life Trial | ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - | — |USA/English|
+| 2015 | Real-Life Trial | ICMI'15 | [pdf](https://dl.acm.org/doi/10.1145/2818346.2820758)| - | - | — |USA|
 
 
 
